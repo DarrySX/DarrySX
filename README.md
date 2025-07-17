@@ -2,9 +2,12 @@
 <h3 align="center">Front-end Developer | Fullstack Explorer | Data Enthusiast</h3>
 
 <p align="center">
-  <div class="tenor-gif-embed" data-postid="11401974361747508374" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/love-gif-11401974361747508374">Love GIF</a>from <a href="https://tenor.com/search/love-gifs">Love GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+  <img src="https://media.tenor.com/M9Pm_P3vGCsAAAAC/love.gif" width="150"/>
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Desarrollador+Front-end+con+visión+Fullstack;Amante+de+la+UI%2FUX+y+la+tecnología;Buscando+llevar+el+código+al+siguiente+nivel!" alt="Typing SVG" />
+</p>
 ---
 
 ## 🧠 Sobre mí
