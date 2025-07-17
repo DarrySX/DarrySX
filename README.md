@@ -2,11 +2,11 @@
 <h3 align="center">Front-end Developer | Fullstack Explorer | Data Enthusiast</h3>
 
 <p align="center">
-  <img src="https://media.tenor.com/M9Pm_P3vGCsAAAAC/love.gif" width="150"/>
+  <img src="https://media.tenor.com/M9Pm_P3vGCsAAAAC/love.gif" width="150" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Desarrollador+Front-end+con+visión+Fullstack;Amante+de+la+UI%2FUX+y+la+tecnología;Buscando+llevar+el+código+al+siguiente+nivel!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Desarrollador+Front-end+con+visión+Fullstack;Amante+de+la+UI%2FUX+y+la+tecnología;Buscando+llevar+el+código+al+siguiente+nivel!" />
 </p>
 ---
 
