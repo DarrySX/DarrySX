@@ -12,7 +12,7 @@
 - 🎓 Bachiller en Ciencia de la Computación  
 - 👨‍💻 Desarrollador Front-end y Mobile desde Arequipa, Perú 🇵🇪  
 - 🌱 Aprendiendo continuamente sobre **arquitectura de software, liderazgo técnico y metodologías ágiles**
-- 🧭 Aspirando a ser **CTO** en el mediano plazo
+- 🧭 Aspirando a ser **CTO** a largo plazo
 
 ---
 
@@ -51,7 +51,7 @@
 ## 📈 Stats en GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brandonvalencia&show_icons=true&theme=tokyonight" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=brandonvalencia&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brandonvalencia&layout=compact&theme=tokyonight" alt="top langs" />
 </p>
 
@@ -72,8 +72,8 @@
 ## 📫 ¿Cómo contactarme?
 
 <p align="left">
-  <a href="mailto:tuemail@ejemplo.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/TU-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:brandon.valencia.calderon@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/brandon-valenciac/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://tusitio.dev"><img src="https://img.shields.io/badge/Portafolio-000?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
 </p>
 
