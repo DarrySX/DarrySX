@@ -54,8 +54,8 @@
 ## 📈 Stats en GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brandonvalencia&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brandonvalencia&layout=compact&theme=tokyonight" alt="top langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DarrySX&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarrySX&layout=compact&theme=tokyonight" alt="top langs" />
 </p>
 
 ---
@@ -63,13 +63,12 @@
 ## 🏆 Logros y Actividad
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=brandonvalencia&theme=monokai&margin-w=15&no-bg=true" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=DarrySX&theme=monokai&margin-w=15&no-bg=true&column=7" alt="trophies" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=brandonvalencia&theme=tokyo-night" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DarrySX&theme=tokyo-night&bg_color=1a1b27&hide_border=true" alt="activity graph" />
 </p>
-
 ---
 
 ## 📫 ¿Cómo contactarme?
