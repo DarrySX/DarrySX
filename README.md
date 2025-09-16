@@ -15,7 +15,7 @@
 - 🎓 Bachiller en Ciencia de la Computación  
 - 👨‍💻 Desarrollador Front-end y Mobile desde Arequipa, Perú 🇵🇪  
 - 🌱 Aprendiendo continuamente sobre **arquitectura de software, liderazgo técnico y metodologías ágiles**
-- 🧭 Aspirando a ser **CTO** a largo plazo
+- 🧭 Aspirando a largo plaza a ser **CTO**
 
 ---
 
