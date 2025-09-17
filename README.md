@@ -63,7 +63,7 @@
 ## 🏆 Logros y Actividad
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DarrySX&theme=monokai&margin-w=15&no-bg=true&column=7" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=DarrySX&theme=monokai&margin-w=15&no-bg=true&column=6" alt="trophies" />
 </p>
 
 <p align="center">
