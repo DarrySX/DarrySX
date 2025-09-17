@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Brandon Valencia</h1>
-<h3 align="center">Front-end Developer | Fullstack Explorer | Data Enthusiast</h3>
+<h3 align="center">FullStack Developer | Mobile Developer | Data Enthusiast</h3>
 
 <p align="center">
   <img src="https://github.com/DarrySX/DarrySX/blob/main/loveDeadpool.gif" width="150" />
@@ -13,9 +13,9 @@
 ## 🧠 Sobre mí
 
 - 🎓 Bachiller en Ciencia de la Computación  
-- 👨‍💻 Desarrollador Front-end y Mobile desde Arequipa, Perú 🇵🇪  
+- 👨‍💻 Desarrollador FullStack y Mobile desde Arequipa, Perú 🇵🇪  
 - 🌱 Aprendiendo continuamente sobre **arquitectura de software, liderazgo técnico y metodologías ágiles**
-- 🧭 Aspirando a largo plaza a ser **CTO**
+- 🧭 Aspirando a largo plazo a ser **CTO**
 
 ---
 
@@ -63,7 +63,7 @@
 ## 🏆 Logros y Actividad
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DarrySX&theme=monokai&margin-w=15&no-bg=true&column=6" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=DarrySX&theme=monokai&margin-w=15&no-bg=true&column=8" alt="trophies" />
 </p>
 
 <p align="center">
