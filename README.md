@@ -77,7 +77,7 @@
 <p align="left">
   <a href="mailto:brandon.valencia.calderon@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/brandon-valenciac/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://tusitio.dev"><img src="https://img.shields.io/badge/Portafolio-000?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
+  <a href="https://darrysdev.me"><img src="https://img.shields.io/badge/Portafolio-000?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
 </p>
 
 ---
