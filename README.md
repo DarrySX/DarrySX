@@ -2,7 +2,7 @@
 <h3 align="center">Lead Software Engineer | Full Stack Architect | AI & Cloud Specialist</h3>
 
 <p align="center">
-  <img src="https://github.com/DarrySX/DarrySX/blob/main/loveDeadpool.gif" width="150" />
+  <img src="https://raw.githubusercontent.com/DarrySX/DarrySX/main/loveDeadpool.gif" width="150" />
 </p>
 
 <p align="center">
@@ -18,9 +18,9 @@
 
 ## 👨‍💻 About Me
 
-I am a **Lead Software Engineer** and **Full Stack Architect** based in Peru 🇵🇪, specialized in building high-performance ecosystems using the **React stack** and **AWS Cloud**.
+I am a **Lead Software Engineer** and **Full Stack Architect** based in Peru 🇵🇪, specialized in building high-performance ecosystems using the **React stack** and **AWS Cloud**. 
 
-Currently serving as **Tech Lead at Alferza**, where I spearhead the engineering roadmap—ranging from **Real-time AI/CRM integrations** to scalable **Microservices architectures**.
+Currently serving as **Tech Lead at Alferza**, I lead the engineering roadmap—from **Real-time AI/CRM integrations** to scalable **Microservices architectures**.
 
 - 🔭 **Current Focus:** Engineering RAG-based AI solutions and High-Performance Next.js 15 apps.
 - 🌱 **Learning:** Advanced System Design for Global-Scale Infrastructures.
@@ -45,28 +45,29 @@ Currently serving as **Tech Lead at Alferza**, where I spearhead the engineering
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL_(pgvector)-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-</p>
-
-### ☁️ Cloud & DevOps
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
 ---
 
-## 📈 GitHub Insights
+## 📊 Performance & Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DarrySX&show_icons=true&theme=tokyonight&count_private=true" alt="Brandon's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarrySX&layout=compact&theme=tokyonight" alt="Most used languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DarrySX&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DarrySX&theme=monokai&no-bg=true&column=7" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarrySX&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+### 🔥 Commitment & Consistency
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DarrySX&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DarrySX&theme=tokyo-night&bg_color=1a1b27&hide_border=true" alt="Activity Graph" />
 </p>
 
 ---
