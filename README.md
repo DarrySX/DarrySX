@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Brandon Valencia 👋</h1>
-<h3 align="center">Lead Software Engineer | Full Stack Architect | AI & Cloud Specialist</h3>
+<h3 align="center">Lead Software Engineer | Full Stack Architect | Microservices & AI Specialist</h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/DarrySX/DarrySX/main/loveDeadpool.gif" width="150" />
@@ -18,14 +18,14 @@
 
 ## 👨‍💻 About Me
 
-I am a **Lead Software Engineer** and **Full Stack Architect** based in Peru 🇵🇪, specialized in building high-performance ecosystems using the **React stack** and **AWS Cloud**. 
+I am a **Lead Software Engineer** and **Full Stack Architect** based in Peru 🇵🇪, specialized in building high-performance ecosystems using the **Java/Spring Boot**, **React stack**, and **AWS Cloud**. 
 
-Currently serving as **Tech Lead at Alferza**, I lead the engineering roadmap—from **Real-time AI/CRM integrations** to scalable **Microservices architectures**.
+Currently serving as **Tech Lead at Alferza**, I lead the engineering roadmap—from **Real-time AI/CRM integrations** to highly scalable, event-driven **Microservices architectures**. I am deeply passionate about **Clean Architecture** and **SOLID** principles to ensure enterprise-grade reliability.
 
-- 🔭 **Current Focus:** Engineering RAG-based AI solutions and High-Performance Next.js 15 apps.
-- 🌱 **Learning:** Advanced System Design for Global-Scale Infrastructures.
-- 💡 **Interests:** SaaS Architecture, Fintech, and AI Engineering.
-- 🚀 **Mission:** Building software that delivers measurable business ROI.
+- 🔭 **Current Focus:** Architecting distributed systems using **Spring Boot/gRPC**, and engineering RAG-based AI solutions.
+- 🌱 **Learning:** Advanced System Design for Global-Scale Infrastructures and modern Event-Driven architectures with **RabbitMQ**.
+- 💡 **Interests:** SaaS Architecture, Fintech, Microservices Ecosystems, and AI Engineering.
+- 🚀 **Mission:** Building clean, robust software that delivers measurable business ROI.
 
 ---
 
@@ -40,11 +40,18 @@ Currently serving as **Tech Lead at Alferza**, I lead the engineering roadmap—
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 </p>
 
-### ⚙️ Backend & AI
+### ⚙️ Backend, Microservices & AI
 <p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
+  <img src="https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge&logo=grpc&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
 </p>
